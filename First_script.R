@@ -8,3 +8,5 @@ x <- c("Blah!")
 ## Making more updates here. 
 
 tod_date <- Sys.Date()
+
+## Progress on pulling successful!
